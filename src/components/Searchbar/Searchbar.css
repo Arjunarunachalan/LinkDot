@@ -1,0 +1,16 @@
+.d-flex{
+ border: 1px 0px 1px 1px solid black;
+ width: 70%;
+    margin-left: 375px;
+    height: 39px;
+    border-radius: 7px;
+    margin-top: 15px;
+
+}
+.Inner{
+    background-color: grey;
+}
+
+
+
+

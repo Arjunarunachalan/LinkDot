@@ -1,0 +1,37 @@
+.head{
+    margin-left: 800px;
+
+}
+.cardouter{
+    background-color: rgba(247, 243, 243, 0.685);
+    width: 355px;
+    margin-left: 900px;
+    margin-top: -198px;
+    height: 220px;
+    border: 1px solid black;
+    border-radius: 7px;
+   
+}
+
+.cardouter h3{
+   font-size: 17px;
+   font-weight: bold;
+   padding-top: 20px;
+   text-align: center;
+}
+.container{
+    font-size: 12px;
+    text-align-last: center;
+
+   
+ 
+}
+.cardbutton{
+    border:2px solid rgb(228, 108, 11);
+    width:220px;
+    height: 45px;
+    box-shadow: 4px  4px rgba(243, 119, 17, 0.856);
+    border-radius: 5px;
+    margin: 5px 64px;
+ 
+}

@@ -1,0 +1,33 @@
+.ProfileHead{
+    margin-left: 10px;
+    
+}
+.Profile{
+    margin-left: 300px;
+    margin-top: 40px;
+    /* background-color: grey; */
+    width: 400px;
+   
+}
+.img{
+    border-radius: 100%;
+    width:50px;
+    height: 50px;
+    float: left;
+}
+.name{
+    margin-left: 40px;
+    font-size: 15px;
+    padding-top: 25spx;
+}
+.button{
+    margin-left: 40px;
+    height: 27px;
+    width: 101px;
+    margin-top: 30px;
+}
+.desc{
+    margin-left: 36px;
+    padding-top: 0px;
+    margin-top: -23px;
+}

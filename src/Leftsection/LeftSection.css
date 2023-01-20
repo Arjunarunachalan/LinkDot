@@ -1,0 +1,20 @@
+.Explore{
+    color: lightgray;
+    margin-bottom: 10px;
+    font-size: 20px;
+    margin-left: 85px;
+    padding-top: 20px;
+}
+.outer{
+    background-color: rgb(243, 239, 239);
+    width: 20%;
+    height: 700px;
+    margin-top: -295px;
+    position: fixed;
+ 
+}
+.Home{
+    margin-top: 30px;
+    margin-left: 87px;
+    font-size: 20px;
+}
